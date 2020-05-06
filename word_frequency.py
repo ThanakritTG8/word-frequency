@@ -224,7 +224,7 @@ def count_frequency(filename, place_name):
 
 
 def count_frequency_tltk():
-    filename = "result_patong_negative - result_wat_trip_positive"
+    filename = "aftertpyewords - deepcutVsTltk"
     output_data = []
     with open('./data/'+filename+'.csv', mode='r', encoding='utf-8') as csv_file:
         csv_reader = csv.DictReader(csv_file)
