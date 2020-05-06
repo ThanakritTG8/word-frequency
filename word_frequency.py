@@ -206,7 +206,7 @@ def count_frequency(filename, place_name):
                 "SYM":sym_word,"SYM_COUNT":sym_count,"VERB":verb_word,"VERB_COUNT":verb_count,
                 "X":x_word,"X_COUNT":x_count})
 
-            i += 1;
+            i += 1
 
 
         #i = 0
